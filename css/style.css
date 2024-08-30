@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: bisque; color: black; border-top: 20px solid burlywood; border-bottom: black solid 3px;
+    margin: 30px 0 30px 0;
+    padding: 20px 20px 10px 5px;
+    text-align: center;
+}
+
+footer{
+    background-color: #e3c39d;
+    margin: 20px 0 20px 0;
+    padding: 10px 10px 5px 5px;
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(to bottom, #fff3d1, #ffe9c3, #ffe2b4, #eccba4, #f8d29d);
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.produto-item{
+    color: rgb(160, 1, 1);
+    font-weight: bold;
+}
